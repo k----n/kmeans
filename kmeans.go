@@ -8,8 +8,8 @@ import (
 	"sync/atomic"
 	"sync"
 
-	"github.com/neurlang/clusters"
-	"github.com/neurlang/classifier/parallel"
+	"github.com/k----n/clusters"
+	"github.com/k----n/classifier/parallel"
 )
 
 // Kmeans configuration/option struct
